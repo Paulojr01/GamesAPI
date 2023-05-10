@@ -28,4 +28,6 @@ public class GamesService {
         Games result = gamesRepository.findById(id).get();
         return  new GamesDTO(result);
    }
+
+
 }

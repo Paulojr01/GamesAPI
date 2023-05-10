@@ -40,4 +40,8 @@ public class GamesMinDTO {
     }
 
 
+    public void delete(Long id) {
+
+
+    }
 }
